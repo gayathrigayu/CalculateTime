@@ -31,6 +31,7 @@ var finalmin;
 	}
 
 	
-	return hourdiff+":"+finalmin;
+	
+	return hourdiff+" Hour "+finalmin+" Min";
 
 }
