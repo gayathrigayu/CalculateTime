@@ -25,3 +25,5 @@ This README would normally document whatever steps are necessary to get your app
 2- calculates the angle difference for hour
 3-  find the number of Minutes
 4- each difference of an minutes is 5 so the remaining difference is multiplied by 5
+
+pass the Function Values for Eg : calculateTime(18,180);
